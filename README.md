@@ -9,7 +9,7 @@ Script Python sederhana untuk:
 ## 🛠 Cara Menjalankan
 
 ### 1. Buka terminal, buat file Python
-📷 ![Langkah 1](./Screenshot%202025-07-28%20135754.png)
+📷 ![langkah2](./01.png)
 
 ```bash
 nano scanner.py
