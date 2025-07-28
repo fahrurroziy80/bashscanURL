@@ -23,4 +23,4 @@ Script Python sederhana untuk:
 ![Langkah 4](langkah2/04.png)
 
 ```bash
-nano scanner.py
+python scanner.py
